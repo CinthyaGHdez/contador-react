@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #9de33b;
+  color: snow;
+  text-align: center;
+}
+
+.menor {
+  color: rgba(131, 2, 114, 0.863);
+}
+
+.mayor {
+  color: #000;
+}
+
+button {
+  /*margin: 0px 0.5rem;*/
+  padding-left: 10px;
+  background-color: #e34924;
+}
